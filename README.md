@@ -1,7 +1,7 @@
 # 555-blinky
 555 LED Chaser board made with a 555 Timer as the clock. Made possible with hackclub blueprint.
 
-I made this blinky board following the (blinky starter project)[https://blueprint.hackclub.com/starter-projects/blinky] 
+I made this blinky board following the [linky starter project](https://blueprint.hackclub.com/starter-projects/blinky) 
 While I have quite some experience with software but this is my first ever hardware project. 
 
 If you have any suggestion or any advice feel free to open an issue.
